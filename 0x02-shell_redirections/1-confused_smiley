@@ -1,5 +1,5 @@
 #!/bin/bash
-echo -e ""(\xC3\x94o)'"
+echo -e \x0A\xC3\xB4
 
 
  
