@@ -1,5 +1,5 @@
 #!/bin/bash
-echo -e \x0A\xC3\xB4
+echo -e \x22\x28\xC3\x94\x6F\29\x27
 
 
  
